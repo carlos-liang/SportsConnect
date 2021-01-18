@@ -1,0 +1,8 @@
+<!-- Created with Method Draw - https://editor.method.ac -->
+<!-- path.fill: Icon colour, text.stroke: text outline, text.fill: text fill  -->
+<svg width="484" height="70" xmlns="http://www.w3.org/2000/svg">
+	<!-- <image xlink:href="https://www.iconsdb.com/icons/preview/white/soccer-3-xxl.png" width="50" height="50" y="10" x="21"/> -->
+	<image href="soccerLogo.png" width="50" height="50" y="10" x="21"/>
+	<!-- <path fill="white" stroke-width="1.5" id="svg_1" d="m0.749999,34.9357l16.285717,-32.500002l43.428574,0l16.285712,32.500002l-16.285712,32.500002l-43.428574,0l-16.285717,-32.500002z"/> -->
+	<text fill="white" stroke-width="0.25" transform="matrix(2.5212739105185777,0,0,2.624178163947006,-410.8947986556894,-322.6308821203321) " xml:space="preserve" text-anchor="start" font-family="Titillium Web" font-size="16" id="svg_2" y="142.723004" x="197.191747" >SportsConnect</text>
+</svg>
